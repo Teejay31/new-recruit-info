@@ -129,6 +129,12 @@
     }
 }
 
+@media (max-width: 414px) {
+    .fmt {
+        margin-top: 45%;
+    }
+}
+
 @media (max-width: 321px) {
     .for-social img {
         padding-right: 0 !important;
